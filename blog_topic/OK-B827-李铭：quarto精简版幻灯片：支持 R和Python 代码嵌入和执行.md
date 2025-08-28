@@ -1,4 +1,4 @@
-# B827：quarto精简版幻灯片：支持 R和Python 代码嵌入和执行
+# OK-B827-李铭：quarto精简版幻灯片：支持 R和Python 代码嵌入和执行
 
 [github-quarto-clean-typst](https://github.com/kazuyanagimoto/quarto-clean-typst), [-PDF-](https://kazuyanagimoto.com/quarto-clean-typst/template-full.pdf)
 

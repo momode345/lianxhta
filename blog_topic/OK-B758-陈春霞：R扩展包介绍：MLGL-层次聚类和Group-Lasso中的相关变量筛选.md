@@ -1,0 +1,2 @@
+# B758：R扩展包介绍：MLGL-层次聚类和Group-Lasso中的相关变量筛选
+Grimonprez, Q., Blanck, S., Celisse, A., & Marot, G. (2023). MLGL: An R Package Implementing Correlated Variable Selection by Hierarchical Clustering and Group-Lasso. Journal of Statistical Software, 106(3). [Link](https://doi.org/10.18637/jss.v106.i03) (内附附件文档和代码), [PDF](https://www.jstatsoft.org/index.php/jss/article/view/v106i03/4443), [Google](<https://scholar.google.com/scholar?q=MLGL: An R Package Implementing Correlated Variable Selection by Hierarchical Clustering and Group-Lasso>).

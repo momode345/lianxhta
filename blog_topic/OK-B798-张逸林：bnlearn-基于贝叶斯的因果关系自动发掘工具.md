@@ -1,4 +1,4 @@
-# B798：bnlearn-基于贝叶斯的因果关系自动发掘工具
+# bnlearn-基于贝叶斯的因果关系自动发掘工具
 
 `bnlearn` is Python package for causal discovery by learning the graphical structure of Bayesian networks, parameter learning, inference, and sampling methods. Because probabilistic graphical models can be difficult to use, `Bnlearn` contains the most-wanted pipelines. Navigate to [API documentations](https://erdogant.github.io/bnlearn/) for more detailed information.
 

@@ -1,5 +1,11 @@
 # B813：论文推介：渐进DID的五种估计方法对比
 
+> Update: `2025/7/25 11:24` [ChatGPT 版本 - better](https://chatgpt.com/share/6883cbb0-f6e8-8005-98b7-b8e1692b9332)
+
+--- 
+
+> Update: `2025/7/20 11:25`
+
 &#x1F34E;  !! 请在我生成的 [B813-初稿](https://github.com/arlionn/lianxhta/blob/main/sample/B813-Stragged-DID.md) 基础上修改完善，形成本推文的最终稿。
 
 > Wing, C., Yozwiak, M., Hollingsworth, A., Freedman, S., & Simon, K. (2024). Designing Difference-in-Difference Studies with Staggered Treatment Adoption: Key Concepts and Practical Guidelines. Annual Review of Public Health, 45(1), 485–505. [Link](https://doi.org/10.1146/annurev-publhealth-061022-050825), [PDF](https://www.annualreviews.org/docserver/fulltext/publhealth/45/1/annurev-publhealth-061022-050825.pdf?expires=1752678753&id=id&accname=guest&checksum=345B1C3C23D23EC0D6A9B385A91F2513), [Google](<https://scholar.google.com/scholar?q=Designing Difference-in-Difference Studies with Staggered Treatment Adoption: Key Concepts and Practical Guidelines>), [github-replication](https://github.com/hollina/arph-did-example)
