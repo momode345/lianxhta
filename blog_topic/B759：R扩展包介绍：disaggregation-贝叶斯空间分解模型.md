@@ -1,4 +1,0 @@
-# B759：R扩展包介绍：disaggregation-贝叶斯空间分解模型
-
-Nandi, A. K., Lucas, T. C. D., Arambepola, R., Gething, P., & Weiss, D. J. (2023). disaggregation: An R Package for Bayesian Spatial Disaggregation Modeling. Journal of Statistical Software, 106(11). [Link](https://doi.org/10.18637/jss.v106.i11) (内附附件文档和代码), [PDF](https://www.jstatsoft.org/index.php/jss/article/view/v106i11/4476), [Google](<https://scholar.google.com/scholar?q=disaggregation: An R Package for Bayesian Spatial Disaggregation Modeling>).
-- [Paper](https://www.jstatsoft.org/index.php/jss/article/view/v106i11/4476), [R package (disaggregation)](https://www.jstatsoft.org/index.php/jss/article/view/v106i11/4477), [Replication materials](https://www.jstatsoft.org/index.php/jss/article/view/v106i11/4478), [Replication data (mcmc\_out)](https://www.jstatsoft.org/index.php/jss/article/view/v106i11/4479)
