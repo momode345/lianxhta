@@ -1,4 +1,4 @@
-# B786：HyperTS：端到端的时间序列分析工具
+# OK-佘子远-B786：HyperTS：端到端的时间序列分析工具
 
 Xiaojing Zhang，Haifeng Wu，Jian Yang. HyperTS: A Full-Pipeline Automated Time Series Analysis Toolkit. https://github.com/DataCanvasIO/HyperTS. 2022. Version 0.2.x.
 
