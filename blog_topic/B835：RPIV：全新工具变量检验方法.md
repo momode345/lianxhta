@@ -1,4 +1,4 @@
-# B835：RPIV：全新工具变量检验方法
+# OK-B835-梁亚东：RPIV：全新工具变量检验方法
 
 Scheidegger, C., Londschien, M., & Bühlmann, P. (2025). A Residual Prediction Test for the Well-Specification of Linear Instrumental Variable Models (Version 1). arXiv. [Link](https://doi.org/10.48550/arXiv.2506.12771) (rep), [PDF](https://arxiv.org/pdf/2506.12771.pdf), [Google](<https://scholar.google.com/scholar?q=A Residual Prediction Test for the Well-Specification of Linear Instrumental Variable Models (Version 1)>). [R codes](https://github.com/cyrillsch/RPIV_Application)
 
