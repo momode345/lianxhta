@@ -16,7 +16,7 @@
 
 **GitHub地址：** https://github.com/robertmartin8/PyPortfolioOpt
 
-该项目已在《开源软件杂志》(Journal of Open Source Software)上[发表论文]((https://joss.theoj.org/papers/10.21105/joss.0306)，目前由[Tuan Tran](https://github.com/88d52bdba0366127fffca9dfa93895)负责维护。项目在ReadTheDocs上提供了完整的技术文档，同时在[cookbook](https://github.com/robertmartin8/PyPortfolioOpt/tree/master/cookbook)中展示了从数据获取到组合构建的完整工作流程。
+该项目已在《开源软件杂志》(Journal of Open Source Software)上[发表论文](https://joss.theoj.org/papers/10.21105/joss.0306)，目前由[Tuan Tran](https://github.com/88d52bdba0366127fffca9dfa93895)负责维护。项目在ReadTheDocs上提供了完整的技术文档，同时在[cookbook](https://github.com/robertmartin8/PyPortfolioOpt/tree/master/cookbook)中展示了从数据获取到组合构建的完整工作流程。
 
 ### 2.PyPortfolioOpt安装与使用
 
