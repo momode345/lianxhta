@@ -1,4 +1,4 @@
-# B816：论文复现：IV+PSM
+# OK-B816-张弛：论文复现：IV+PSM
 
 Tübbicke, S. (2023). When to use matching and weighting or regression in instrumental variable estimation? Evidence from college proximity and returns to college. Empirical Economics, 65(6), 2979–2999. [Link](https://doi.org/10.1007/s00181-023-02441-7), [PDF](https://link.springer.com/content/pdf/10.1007/s00181-023-02441-7.pdf), [Google](<https://scholar.google.com/scholar?q=When to use matching and weighting or regression in instrumental variable estimation? Evidence from college proximity and returns to college>). 
 - Replication - Stata dofiles and R codes
